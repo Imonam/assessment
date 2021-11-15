@@ -1,0 +1,9 @@
+img{    width: 150px;    height: 150px;    border-radius: 50%;    margin-top: -80px; align-items: center;}
+h1 {color: rgb(50, 13, 211);}
+html {background-color: chartreuse;}
+input::placeholder {  color: gray;}
+input {  width: 330px;  background: #ECF0F3;  height: 50px;  font-size: 14px;  border-radius: 50px;  box-shadow: inset 6px 6px 6px #CBCED1, inset -6px -6px 6px white;}
+.container {  margin-left: 600px;  margin-top: 100px;  position: relative;  width: 350px;  height: 500px;  border-radius: 20px;  background: #ECF0F3;  box-shadow: 14px 14px 20px #CBCED1, -14px -14px 20px white;}
+.brand-title {  font-weight: 900;  font-size: 40px;  color: #1DA1F2;  letter-spacing: 1px;  padding: 30px;}
+button {align-self: center;}
+label {color: cornflowerblue;}
